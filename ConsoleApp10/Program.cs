@@ -9,3 +9,5 @@ WeatherRequst result =
 Console.WriteLine(result.coord.lon);
 
 Console.WriteLine(result.coord.lat);
+
+Console.WriteLine(result._base);
